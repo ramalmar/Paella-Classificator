@@ -4,4 +4,6 @@ This work presents the development of a multi-class neural network classificatio
 
 [Notebook Code](https://nbviewer.org/github/ramalmar/Paella-Classificator/blob/main/PaellaClassificator.ipynb)
 
+![Paella classification](fig.png)
+
 
